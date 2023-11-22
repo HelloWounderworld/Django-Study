@@ -11,3 +11,6 @@ Além disso, após o estudo pela Udemy, irei seguir as seguintes referências li
 - Django for Professionals, Production websites with Python & Django by William S. Vincent
 
 - Django for APIs, Build web APIs with Python and Django by William S. Vincent
+
+## Configurações do Ambiente:
+
