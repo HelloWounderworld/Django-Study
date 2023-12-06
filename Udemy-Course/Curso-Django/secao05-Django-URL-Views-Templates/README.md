@@ -1,4 +1,4 @@
-# Django URLs, Views e Templates:
+# Seção 05 - Django URLs, Views e Templates:
 
 ## Aula 01 - Me ajude a produzir conteúdo gratuito:
 Eu acredito que a educação deva ser gratuita, mas NINGUÉM valoriza conteúdo gratuito. Eu gostaria que você me ajudasse a mudar isso. Você pode começar me seguindo, curtindo, comentando e interagindo com o meu conteúdo gratuito na redes sociais.

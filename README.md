@@ -12,5 +12,11 @@ Além disso, após o estudo pela Udemy, irei seguir as seguintes referências li
 
 - Django for APIs, Build web APIs with Python and Django by William S. Vincent
 
-## Configurações do Ambiente:
+## Configurações do Ambiente - Ambiente de desenvolvimento no MacOS, Linux (Ubuntu) e Windows (para Python):
 
+## Consiguração do Visual Studio Code (VSCode) e ambiente virtual (venv):
+
+## Ambiente Django + Git e Github com chaves SSH (Iniciando o primeiro projeto):
+
+# Projetos que consegui criar:
+Seguir a lista de projetos que conseguir criar usando o framework Django:
